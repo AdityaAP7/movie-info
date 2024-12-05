@@ -26,7 +26,6 @@ import Navbar from "./components/navbar/Navbar";
 1
 1
 1
-1
 function App() {
   const [pageLoading, setPageLoading] = useState(true);
   useEffect(() => {
