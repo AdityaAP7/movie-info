@@ -12,6 +12,11 @@ import { useEffect, useState } from "react";
 import PreLoader from "./components/loading/PreLoader";
 import Footer from "./components/footer/Footer";
 import Navbar from "./components/navbar/Navbar";
+
+111111111111111111111111111111111111
+
+
+
 function App() {
   const [pageLoading, setPageLoading] = useState(true);
   useEffect(() => {
