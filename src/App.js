@@ -20,7 +20,6 @@ import Navbar from "./components/navbar/Navbar";
 6
 7
 8
-9
 10
 function App() {
   const [pageLoading, setPageLoading] = useState(true);
