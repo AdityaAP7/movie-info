@@ -1,6 +1,10 @@
 import React from "react";
 import HeaderC from "./../header/HeaderC";
 import img from "./about2.jpg";
+import React from "react";
+import HeaderC from "./../header/HeaderC";
+import img from "./about2.jpg";
+import { Col, Container, Row } from "react-bootstrap";
 import { Col, Container, Row } from "react-bootstrap";
 import { Col, Container, Row } from "react-bootstrap";
 import { Col, Container, Row } from "react-bootstrap";
